@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FranklinWillemen
 - 👀 I’m interested in Technology and Society
 - 🌱 I’m currently learning Complex Systems
-- 💞️ I’m looking to collaborate on Developing Technology for Social Good
+- 💞️ I’m looking to collaborate on Technology for Social Good
 - 📫 How to reach me, send me an email!
 
 <!---
