@@ -1,4 +1,5 @@
-- 👋 Hi
+- 👋 Hello. I'm Franklin. Welcome to my github!
+- If you would like to learn more about me and what I am working on check out: https://franklinwillemen.github.io/
 
 <!---
 FranklinWillemen/FranklinWillemen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
